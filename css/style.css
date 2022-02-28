@@ -1,0 +1,37 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    background-color:#CCCCFF;
+}
+.quem-somos{
+    background-color:#ccd9ff;
+    color: #000;
+}
+.img-time {
+    border: 3px solid #CCCCFF;
+}
+
+.margin {
+    padding-top: 10px; /*O padding top irá estender a cor do background, se usásemos o margin-top o mesmo não seria possível*/
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #CCCCFF;
+    color: #000;
+}
+
+.servicos {
+    background-color:#ccd9ff ;
+    color: #000;
+}
+
+.img-servico {
+    border: 2px solid  #CCCCFF;
+}
+
+.bg-footer {
+    background-color: #CCCCFF;
+    color:#7F7F7F
+}
