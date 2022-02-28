@@ -1,2 +1,2 @@
 # aula_bootstrap
-Aula Bootstrap Dio
+Criando um site utilizando o framework bootstrap. 
